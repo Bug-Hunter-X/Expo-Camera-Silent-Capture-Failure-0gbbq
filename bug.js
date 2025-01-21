@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API in conjunction with a custom camera component.  The issue manifests as an inability to capture images or videos, with no apparent errors in the console.  The camera preview displays correctly, but the capture function fails silently. This is often due to incorrect configuration of the camera permissions or missing event handlers.
